@@ -1,0 +1,30 @@
+# Python & Virtual Environments
+myenv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+
+# Node & Frontend
+node_modules/
+**/node_modules/
+build/
+**/build/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
